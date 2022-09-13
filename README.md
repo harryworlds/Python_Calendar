@@ -30,7 +30,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-🛠️Tools 
 import calendar 
 #Access to other modules
 print("Hello welcome to py calendar")

@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/website?label=click_here_to_test_code_Python&style=for-the-badge&url=https://replit.com/@harryworlds/PyCalendarharryWorld?v=1)](https://https://replit.com/@harryworlds/PyCalendarharryWorld?v=1)
 
-[![Website](https://img.shields.io/website?label=Click_here/New_Github_user&style=for-the-badge&url=https://github.com/harryworlds)](https://github.com/harryworlds)
+[![Website](https://img.shields.io/website?label=Click_here/harryworls_Github&style=for-the-badge&url=https://github.com/harryworlds)](https://github.com/harryworlds)
 
 
 

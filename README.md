@@ -3,7 +3,7 @@
 
 #I'm using calendar module and rest are simple coding and you can test this code through replit.com an online IDE.
 
-[![Website](https://img.shields.io/website?label=click_here_to_test_code_Python&style=for-the-badge&url=https://replit.com/@harryworlds/PyCalendarharryWorld?v=1)](https://https://replit.com/@harryworlds/PyCalendarharryWorld?v=1)
+[![Website](https://img.shields.io/website?label=click_here_to_test_code_Python&style=for-the-badge&url=https://replit.com/@harryworlds/PyCalendarharryWorld?v=1)](https://replit.com/@harryworlds/PyCalendarharryWorld?v=1)
 
 [![Website](https://img.shields.io/website?label=Click_here/harryworls_Github&style=for-the-badge&url=https://github.com/harryworlds)](https://github.com/harryworlds)
 
